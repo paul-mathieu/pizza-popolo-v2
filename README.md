@@ -2,6 +2,8 @@
 
 ## Install
 
+`git clone https://github.com/paul-mathieu/pizza-popolo-v2.git`
+
 `npm install`
 
 `npm start`
